@@ -28,7 +28,7 @@
 // @version        1.3
 // ==/UserScript==
 
-  //console.log = function(){};
+  console.log = function(){};
 
   var job = GM_getValue('tblogjob');
   var loc = String(document.location);
